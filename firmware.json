@@ -1,9 +1,9 @@
 {
   "products": {
     "12v-STHM": {
-      "version": "1.0.4",
-      "url": "https://github.com/dm-smartworx/firmware-releases/releases/download/v1.0.4/12v-STHM-v1.0.4.bin",
-      "notes": "Fix OTA download TLS cert bundle, add download error diagnostics"
+      "version": "1.0.5",
+      "url": "https://github.com/dm-smartworx/firmware-releases/releases/download/v1.0.5/12v-STHM-v1.0.5.bin",
+      "notes": "Add boot splash screen, OTA progress overlay, Furrion drivers"
     }
   }
 }
