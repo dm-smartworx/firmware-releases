@@ -1,9 +1,9 @@
 {
   "products": {
     "12v-STHM": {
-      "version": "1.0.2",
-      "url": "https://github.com/dm-smartworx/firmware-releases/releases/download/v1.0.2/12v-STHM-v1.0.2.bin",
-      "notes": "Add NTP clock, 12h/24h format, manual date/time setting, timezone selection"
+      "version": "1.0.3",
+      "url": "https://github.com/dm-smartworx/firmware-releases/releases/download/v1.0.3/12v-STHM-v1.0.3.bin",
+      "notes": "mbedTLS memory optimization for OTA, WiFi buffer tuning, UI fixes"
     }
   }
 }
