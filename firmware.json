@@ -1,9 +1,9 @@
 {
   "products": {
     "12v-STHM": {
-      "version": "1.0.11",
-      "url": "https://github.com/dm-smartworx/firmware-releases/releases/download/v1.0.11/12v-STHM-v1.0.11.bin",
-      "notes": "OTA: 48K chunks, 3 retry attempts, attempt counter UI"
+      "version": "1.0.12",
+      "url": "https://github.com/dm-smartworx/firmware-releases/releases/download/v1.0.12/12v-STHM-v1.0.12.bin",
+      "notes": "OTA improvements, display cold-boot fix"
     }
   }
 }
