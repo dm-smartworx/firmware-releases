@@ -1,9 +1,9 @@
 {
   "products": {
     "12v-STHM": {
-      "version": "1.0.15",
-      "url": "https://github.com/dm-smartworx/firmware-releases/releases/download/v1.0.15/12v-STHM-v1.0.15.bin",
-      "notes": "Wake-to-main-screen on display timeout, display timeout dismiss settings popup"
+      "version": "1.0.16",
+      "url": "https://github.com/dm-smartworx/firmware-releases/releases/download/v1.0.16/12v-STHM-v1.0.16.bin",
+      "notes": "Landscape mode, RS-485 3-speed fan, touch fix, HVAC demand gating"
     }
   }
 }
