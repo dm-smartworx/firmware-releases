@@ -1,9 +1,9 @@
 {
   "products": {
     "12v-STHM": {
-      "version": "1.0.17",
-      "url": "https://github.com/dm-smartworx/firmware-releases/releases/download/v1.0.17/12v-STHM-v1.0.17.bin",
-      "notes": "Landscape mode, RS-485 3-speed fan, touch fix, HVAC demand gating"
+      "version": "1.0.18",
+      "url": "https://github.com/dm-smartworx/firmware-releases/releases/download/v1.0.18/12v-STHM-v1.0.18.bin",
+      "notes": "RS-485 fan control modes, chaser animation, boot timeout, UI refinements"
     }
   }
 }
