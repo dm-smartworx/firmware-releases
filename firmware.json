@@ -1,9 +1,9 @@
 {
   "products": {
     "12v-STHM": {
-      "version": "1.0.20",
-      "url": "https://github.com/dm-smartworx/firmware-releases/releases/download/12v-STHM-v1.0.20/12v-STHM-v1.0.20.bin",
-      "notes": "Dual OTA partition table, LVGL stability, chaser size optimization"
+      "version": "1.0.21",
+      "url": "https://github.com/dm-smartworx/firmware-releases/releases/download/12v-STHM-v1.0.21/12v-STHM-v1.0.21.bin",
+      "notes": "OTA ping-pong test 2"
     }
   }
 }
